@@ -1,0 +1,35 @@
+body{
+    font-family: "Raleway", sanf-serif;
+}
+
+#local{
+    width: 100%;
+    background-color: red;
+    padding: 15px 0;
+    margin: 0;
+    font-size: 1.5 rem;
+    color: white;
+    text-align: center;
+}
+
+#cities{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#cities dt{
+    border: 1px solid #806060;
+    padding: 8px;
+}
+
+#cities tr:nth-child(even){
+    background-color: brown;
+}
+
+.coil1{
+    width: 10%;
+}
+
+.coil2{
+    width: 50%;
+}
